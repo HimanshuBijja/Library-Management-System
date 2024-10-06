@@ -1,0 +1,1 @@
+This C++ based project focuses on Maintaing Books and student logs, the data about the above two is stored in seperate files which will be created on the go, The issued book name and the student rollNo will be linked. 
